@@ -15,6 +15,10 @@ django-allauth = "*"
 install = "*"
 langchain-openai = "*"
 python-dotenv = "*"
+daphne = "*"
+channels = "*"
+channels-redis = "*"
+selenium = "*"
 
 [dev-packages]
 
